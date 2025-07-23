@@ -28,8 +28,8 @@ An AI-powered resume shortlisting application that uses CrewAI and OpenAI to aut
 ### Method 1: Using pip (Recommended)
 
 ```bash
-git clone https://github.com/ajitashwath/resume-shortlister.git
-cd resume-shortlister
+git clone https://github.com/Kartavya-AI/Resume-Shortlisting.git
+cd Resume-Shortlisting
 
 pip install -e .
 
@@ -41,16 +41,16 @@ pip install -e ".[dev]"
 ```bash
 curl -sSL https://install.python-poetry.org | python3 -
 
-git clone https://github.com/ajitashwath/resume-shortlister.git
-cd resume-shortlister
+git clone https://github.com/Kartavya-AI/Resume-Shortlisting.git
+cd Resume-Shortlisting
 poetry install
 ```
 
 ### Method 3: Manual Installation
 
 ```bash
-git clone https://github.com/ajitashwath/resume-shortlister.git
-cd resume-shortlister
+git clone https://github.com/Kartavya-AI/Resume-Shortlisting.git
+cd Resume-Shortlisting
 
 # Create virtual environment
 python -m venv venv
