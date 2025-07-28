@@ -1,0 +1,9 @@
+fastapi 
+uvicorn
+gunicorn
+crewai
+crewai[tools]
+pydantic
+python-dotenv
+unstructured
+unstructured[pdf]
