@@ -1,4 +1,4 @@
-fastapi 
+fastapi
 uvicorn
 gunicorn
 crewai
@@ -7,3 +7,9 @@ pydantic
 python-dotenv
 unstructured
 unstructured[pdf]
+python-multipart
+PyPDF2
+pysqlite3-binary
+aiofiles
+python-jose[cryptography]
+passlib[bcrypt]
